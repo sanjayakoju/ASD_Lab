@@ -1,6 +1,5 @@
 package bank.command;
 
-import bank.service.AccountService;
 import bank.service.IAccountService;
 
 public class DepositCommand implements Command {
